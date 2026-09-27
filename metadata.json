@@ -1,0 +1,6 @@
+{
+  "name": "Jalan Santai GPS - Panduan Navigasi Rute Jalan Santai",
+  "description": "Aplikasi navigasi GPS interaktif real-time khusus rute Jalan Santai dengan penunjuk arah kompas presisi, deteksi jalur, dan panduan suara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
